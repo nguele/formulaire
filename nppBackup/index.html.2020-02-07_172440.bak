@@ -54,7 +54,7 @@
 						<label for="sport">Sport</label>
 						<input type="checkbox" id="lecture" name="intérêt">
 						<label for="lecture">Lecture</label>
-					</fieldset style="width:360px;">
+					</fieldset>
 						<hr width="1300" size="5" color="black">
 						<fieldset>
 						<legend>Commentaire:</legend>

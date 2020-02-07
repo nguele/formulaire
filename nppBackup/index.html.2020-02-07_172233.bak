@@ -11,7 +11,7 @@
 				<h2> INFORMATION PERSONNELLE</h2>
 			</header>
 			<form method="post" action="traitement.php">
-				<fieldset style="width:500px;">
+				<fieldset class="me">
 					<h3> RENSEIGNEMENT</h3>
 					<hr width="1300" size="5" color="black">
 					<fieldset style="width:360px;">
@@ -32,7 +32,7 @@
 					</fieldset>
 					</div>
 					<hr width="1300" size="5" color="black">
-					<fieldset style="width:360px;">
+					<fieldset>
 						<legend>Formation:</legend>
 						<label for="diplome">Dernier diplôme</label>
 						<select value="bac_3" name="diplôme" id="diplome" required="required" type="text">
@@ -54,7 +54,7 @@
 						<label for="sport">Sport</label>
 						<input type="checkbox" id="lecture" name="intérêt">
 						<label for="lecture">Lecture</label>
-					</fieldset style="width:360px;">
+					</fieldset>
 						<hr width="1300" size="5" color="black">
 						<fieldset>
 						<legend>Commentaire:</legend>

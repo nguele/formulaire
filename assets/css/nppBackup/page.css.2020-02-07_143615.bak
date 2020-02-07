@@ -1,0 +1,6 @@
+body{
+	background-color:green;
+	background-color:green;
+	font-size:15px;
+	background-image: url('/assets/img/font1.jpg');
+}

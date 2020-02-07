@@ -1,0 +1,43 @@
+body{
+	background-color:green;
+	font-size:20px;
+	background-image: url('../img/font1.jpg');
+	color:blue
+}
+h3{
+  text-align:center;
+ 
+  }
+  
+h2{
+	background:url('')
+	 width: 200%;
+  height: 200px;
+  background-image: url('http://www.gifgratis.net/gifs_animes/secretaire/15.gif');
+  background-repeat: no-repeat;
+  background-size:contain;
+  background-position:center;
+}
+legend{
+	font-size:40px;
+	color:white;
+}
+label{
+	font-size:20px;
+	color:white;
+}
+input[type=submit]{
+  background-color:blue;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+
+form [method="post"]{
+	margin:0 auto;
+	width: 60%;
+}
